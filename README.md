@@ -64,6 +64,8 @@ Weighing Machines </br>
 ## CIRCUIT DIAGRAM
 ![image](https://github.com/user-attachments/assets/b3ab6dac-a21c-4ff5-a936-fa7b4d6dc227)
 
+
+
 ## PROGRAM
 ```
 const int ledPin = 12;
@@ -81,10 +83,14 @@ digitalWrite(ledPin, HIGH);
 }
 }
 ```
+
+
 ## OUTPUT
-## OFF
-![image](https://github.com/user-attachments/assets/6cc1b6a3-6939-42ad-bc6e-b86114ba9337)
 ## ON
+![image](https://github.com/user-attachments/assets/6cc1b6a3-6939-42ad-bc6e-b86114ba9337)
+
+
+## OFF
 ![image](https://github.com/user-attachments/assets/722fbcac-0891-4c1e-bace-3c7933eb07d9)
 
 ## RESULT
