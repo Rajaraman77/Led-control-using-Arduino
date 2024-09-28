@@ -27,6 +27,17 @@ Step 8 Select the correct board and port in the Arduino IDE </br>
 Step 8 GO to sketch and select verify to upload the program in the Arduino board </br>
 Step 9 Press the push button and observe the LED's behavior </br>
 
+
+
+
+
+
+
+
+
+
+
+
 ## THEORY
 
 ### Introduction 
