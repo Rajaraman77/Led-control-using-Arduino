@@ -52,9 +52,7 @@ LED is a semiconductor light source. It consists of a PN Junction Diode and when
 In the setup function, the pin mode for the LED and pushbutton pins are set using the pinMode function. The pin mode for the LED pin is set to OUTPUT, and the pin mode for the pushbutton pin is set to INPUT.In the loop function, the state of the pushbutton is read using the digitalRead function. If the pushbutton is pressed (HIGH state), the LED is turned on using the digitalWrite function. If the pushbutton is not pressed (LOW state), the LED is turned off. This process is repeated continuously, with the state of the pushbutton and the state of the LED being continuously checked and updated.
 
 ![image](https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/8b4930b4-4040-46ab-9e2e-d3277559ae6f)
-#
-#
-#
+
 ### Applications
 Interactive Light Display </br>
 Educational Game for Children </br>
@@ -65,9 +63,6 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 ![image](https://github.com/user-attachments/assets/b3ab6dac-a21c-4ff5-a936-fa7b4d6dc227)
-
-
-
 ## PROGRAM
 ```
 const int ledPin = 12;
@@ -85,16 +80,9 @@ digitalWrite(ledPin, HIGH);
 }
 }
 ```
-#
-#
-#
-#
-
 ## OUTPUT
 ## ON
 ![image](https://github.com/user-attachments/assets/6cc1b6a3-6939-42ad-bc6e-b86114ba9337)
-
-
 ## OFF
 ![image](https://github.com/user-attachments/assets/722fbcac-0891-4c1e-bace-3c7933eb07d9)
 
