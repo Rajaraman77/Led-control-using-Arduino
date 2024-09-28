@@ -1,8 +1,9 @@
-# Led-control-using-Arduino
 ```
 NAME : RAJARAMAN V
 REGISTER NO : 212223110038
 ```
+# EX:01 Led control using Arduino
+
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
