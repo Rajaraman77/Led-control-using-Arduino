@@ -82,7 +82,9 @@ digitalWrite(ledPin, HIGH);
 }
 ```
 ## OUTPUT
+## OFF
 ![image](https://github.com/user-attachments/assets/6cc1b6a3-6939-42ad-bc6e-b86114ba9337)
+## ON
 ![image](https://github.com/user-attachments/assets/722fbcac-0891-4c1e-bace-3c7933eb07d9)
 
 ## RESULT
